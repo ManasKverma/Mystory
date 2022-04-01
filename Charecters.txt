@@ -24,3 +24,8 @@ Dio
 *likes kicking dogs and cats
 *does not have a child/wife/mother/siblings
 
+Jonathan's Dog
+*dumb
+*loves jonathan
+*kickable
+
